@@ -1,3 +1,6 @@
+# Aula 01 - Conceitos de Investimentos e Introdução às Bibliotecas - Trading com Dados
+# Video: https://youtu.be/7sOMtzdxTxs
+
 install.packages("BatchGetSymbols")
 install.packages("quantmod")
 install.packages("GetDFPData")
